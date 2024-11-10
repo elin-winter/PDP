@@ -72,6 +72,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 
 **Nombre del Parcial:** *El Asadito*
 - Año 2019: https://docs.google.com/document/d/1WOK0p1qH-5LQxDQ1Jx3b39gSXpyqy4GuLIax11yjnoc/edit?usp=sharing
+- Resolución Cátedra: https://github.com/wollok/ElAsadito
 
 ### 2017
 
