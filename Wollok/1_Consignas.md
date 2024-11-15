@@ -23,7 +23,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Año 2022: https://www.utnianos.com.ar/foro/attachment.php?aid=22362
 - Resolución de Utnianos: https://www.utnianos.com.ar/foro/attachment.php?aid=22368
 
-**Nombre del Parcial:** Catar
+**Nombre del Parcial:** Catar *(HECHO)*
 - Año 2022: https://docs.google.com/document/d/1eq-tT2of7Cac-BhaRde-HxqF5wrEtzU4xH-paQ8iXEg/edit?tab=t.0#heading=h.9hbhfvv3ym5n
 - Resolución Cátedra: https://github.com/pdepjm/2022-o-parcialcatar-asanzo
 
