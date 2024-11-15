@@ -10,16 +10,16 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Año 2023: https://docs.google.com/document/d/e/2PACX-1vTk6E7nY0HX9aTxkGlGhojzd6y7PfNs0c0C0Qs6VgKm3cJoV5OjdptV48ovMyJmpPajgXx2OKiAdRF0/pub
 - Resolución Cátedra: https://github.com/pdepjm/2023-o-parcial-solucion
 
-**Nombre del Parcial:** Harry Boter
+**Nombre del Parcial:** Harry Boter *(HECHO)*
 - Año 2023: https://github.com/FedericoEncinazSayago/Enciclopedia-De-Pdep/blob/main/Wollok/Parciales/HarryBoter/Harry%20Botter%20-%2020231110%20.docx
 
-**Nombre del Parcial:** Jubilación
+**Nombre del Parcial:** Jubilación *(HECHO)*
 - Año 2023: https://docs.google.com/document/d/11XMvYJKG_k45YB83S9_5jjwa2Zl7XbMAoMmr518ahk4
 - Resolución Cátedra: https://github.com/pdep-utn-miercoles-manana/jubilacion
 
 ### 2022
 
-**Nombre del Parcial:** Temporada de Descuentos
+**Nombre del Parcial:** Temporada de Descuentos *(HECHO)*
 - Año 2022: https://www.utnianos.com.ar/foro/attachment.php?aid=22362
 - Resolución de Utnianos: https://www.utnianos.com.ar/foro/attachment.php?aid=22368
 
