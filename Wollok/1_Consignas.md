@@ -29,7 +29,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 
 ### 2021
 
-**Nombre del Parcial:** PdeP Brawls
+**Nombre del Parcial:** PdeP Brawls *(HECHO)*
 - Año 2021: https://docs.google.com/document/u/1/d/e/2PACX-1vSbhqKLyiv4aRD7cAzI7N0X83rOSXX0jv1M3qjtKVFywhoxQxdZR2eMXPNVEHWivwswRk7WE6Hr6GeY/pub
 - Resolución Cátedra: https://github.com/pdepjm/2022-o-simu-lspigariol
   
