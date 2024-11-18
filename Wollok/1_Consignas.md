@@ -39,9 +39,8 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 
 ### 2020
 
-**Nombre del Parcial:** Among Us
+**Nombre del Parcial:** Among Us *(HECHO)*
 - Año 2020: https://github.com/pdep-utn-miercoles-manana/among-us/blob/master/Enunciado.md
-- Resolución Cátedra: https://github.com/pdep-utn-miercoles-manana/among-us/tree/master
 
 **Nombre del Parcial:** Servicio de Mensajería Wollokiano
 - Año 2020: https://docs.google.com/document/u/1/d/e/2PACX-1vTiod1ID7UPdUFQcH7nXs1VlKK6d1EW2FuwzbAkG-TvtBteEFPQJ16EfDSbzX-Y5BgDukIJLE0VdsZ0/pub
