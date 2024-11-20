@@ -49,7 +49,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 **Nombre del Parcial:** Periodismo de Guerra *(HECHO)*
 - Año 2020: https://docs.google.com/document/d/13xMCRJcoo1VtN5u4OBVTgAHYzfVOuYCtAHdKYcrRqtc/edit?tab=t.0#heading=h.ds4shriau28y
 
-**Nombre del Parcial:** Danger Zone
+**Nombre del Parcial:** Danger Zone *(HECHO)*
 - Año 2020: [https://docs.google.com/document/d/1eq-tT2of7Cac-BhaRde-HxqF5wrEtzU4xH-paQ8iXEg/edit?tab=t.0#heading=h.9hbhfvv3ym5n](https://docs.google.com/document/d/e/2PACX-1vRFhr0lXZkZoovSdMhpqNr45HMn6NsuRTsQBJXVCDReAqqcvaOtskwIJCV9K7vIbWAXHlF2gFjaQwD9/pub)
 - Resolución Cátedra: https://www.youtube.com/watch?v=Np23xBg2G8A&ab_channel=ParadigmasdeProgramación-MiércolesTarde
   
