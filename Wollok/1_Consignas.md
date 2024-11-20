@@ -42,7 +42,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 **Nombre del Parcial:** Among Us *(HECHO)*
 - Año 2020: https://github.com/pdep-utn-miercoles-manana/among-us/blob/master/Enunciado.md
 
-**Nombre del Parcial:** Servicio de Mensajería Wollokiano
+**Nombre del Parcial:** Servicio de Mensajería Wollokiano *(HECHO)*
 - Año 2020: https://docs.google.com/document/u/1/d/e/2PACX-1vTiod1ID7UPdUFQcH7nXs1VlKK6d1EW2FuwzbAkG-TvtBteEFPQJ16EfDSbzX-Y5BgDukIJLE0VdsZ0/pub
 - Resolución Cátedra: https://github.com/pdepjm/2020-o-parcialMensajeria-solucion
 
