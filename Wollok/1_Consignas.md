@@ -46,7 +46,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Año 2020: https://docs.google.com/document/u/1/d/e/2PACX-1vTiod1ID7UPdUFQcH7nXs1VlKK6d1EW2FuwzbAkG-TvtBteEFPQJ16EfDSbzX-Y5BgDukIJLE0VdsZ0/pub
 - Resolución Cátedra: https://github.com/pdepjm/2020-o-parcialMensajeria-solucion
 
-**Nombre del Parcial:** Periodismo de Guerra
+**Nombre del Parcial:** Periodismo de Guerra *(HECHO)*
 - Año 2020: https://docs.google.com/document/d/13xMCRJcoo1VtN5u4OBVTgAHYzfVOuYCtAHdKYcrRqtc/edit?tab=t.0#heading=h.ds4shriau28y
 
 **Nombre del Parcial:** Danger Zone
