@@ -56,8 +56,9 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 **Nombre del Parcial:** *Intensamente* *(HECHO, MUY LARGO)*
 - Año 2020: [https://docs.google.com/document/d/13xMCRJcoo1VtN5u4OBVTgAHYzfVOuYCtAHdKYcrRqtc/edit?tab=t.0#heading=h.ds4shriau28y](https://github.com/elin-winter/PDP_UTN/tree/main/Parciales/2020-simulacro-objetos-GuidoDipietro#readme)
 
-**Nombre del Parcial:** *Planetas en el Universo*
+**Nombre del Parcial:** *Planetas en el Universo* *(HECHO)*
 - Año 2020: [https://docs.google.com/document/d/13xMCRJcoo1VtN5u4OBVTgAHYzfVOuYCtAHdKYcrRqtc/edit?tab=t.0#heading=h.ds4shriau28y](https://github.com/FedericoEncinazSayago/Enciclopedia-De-Pdep/tree/main/Wollok/Parciales/Planetas#readme)
+- Resolución Utnianos: https://github.com/FedericoEncinazSayago/Enciclopedia-De-Pdep/tree/main/Wollok/Parciales/Planetas/Resolucion
   
 **Nombre del Parcial:** *Godfather*
 - Año 2020: https://drive.google.com/file/d/1ooMrzRIJMe_cJi1RbChUu2sdwmpATZ46/view?usp=sharing
