@@ -7,23 +7,33 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 ### 2024
 
 **Nombre del Parcial:** Plagio di Plagio *(HECHO, el que me tomaron a mí)*
+- Profs. : Sanzo y Spigariol
 - Año 2024: https://docs.google.com/document/d/1ilESbsH_umXHRznhN0SOOhzjaR7f52qYOy677lczu7s/edit?usp=sharing
 
 **Nombre del Parcial:** Dune
+- Profs. : Spigariol
 - Año 2024: https://docs.google.com/document/d/1vfmY4xOaGVMtDCixKtA6rDugwWM86ZJaL7K5vDKcksA/edit?usp=sharing
+
+**Nombre del Parcial:** P de Perritos
+- Profs. : Gonzales
+- Año 2024: https://docs.google.com/document/d/19CPV3G8aLJs5AQ6QUuOxlqOLClKxi_Fy7cc3X53rFSw/edit?usp=sharing
 
 ### 2023
 
 **Nombre del Parcial:** CraftMine
+- Profs. : Spigariol
 - Año 2023: https://docs.google.com/document/d/1i9rB5AzRswz_0Z4T1v5IgRhC3UT-d_Ib1K7LUeq5sa0/edit
 
 **Nombre del Parcial:** Alfajores
+- Profs. : Spigariol
 - Año 2023: https://docs.google.com/document/d/1m8gRD-gheA2fDbiDXc7-dpiymkhDQRbmzr-plL5BGuA/edit
 
 **Nombre del Parcial:** Super Mario Bros
+- Profs. : Spigariol
 - Año 2023: https://docs.google.com/document/d/16YC_GPPnety13jm46Y6uhlpBdv9zb7m1HgwDjfMILG0/edit#heading=h.rdm4at4lk1gl
 
 **Nombre del Parcial:** Naruto
+- Profs. : Gonzales
 - Año 2023: https://drive.google.com/file/d/1s91Ta3yrfcJltTG-i_2lll8kwUSMwFeh/view
 
 **Nombre del Parcial:** Los Simpson
@@ -35,6 +45,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Año 2022: https://docs.google.com/document/d/1rbOy1rIFmBxMRhTOWvI-u097l9KatHRbqt5KBXvVSfI/edit
 
 **Nombre del Parcial:** Harry Postre y el Pastel Currificado
+- Profs. : Spigariol
 - Año 2022: https://docs.google.com/document/d/1jNjWDojVUCg_PtY3_0XLCbGYkEOP-Jus0_BRzGGI2_o/edit
 
 **Nombre del Parcial:** Suprema
