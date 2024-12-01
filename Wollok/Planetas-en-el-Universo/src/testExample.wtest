@@ -1,0 +1,62 @@
+/*
+
+
+Hacer que algunos de sus habitantes ganen o gasten monedas y/o 
+cumplan años y en consecuencia cambien algunas de las respuestas 
+anteriores.
+
+
+
+*/
+
+
+import persona.*
+import planeta.*
+import construccion.*
+
+describe "Tests de Planetas" {
+
+  const charles = new Persona(edad = 75) // destacado por requerimiento de recursos
+  const miranda = new Persona(edad = 23) // destacada por requerimiento de edad
+  const elizabeth = new Persona(edad = 4) // no destacada
+  const jeffBezos = new Persona(edad = 50) // en la delegacion por ser tremendo capitalista
+
+  const murallaChina = new Muralla(longitud = 10000)
+  const murallaDorada = new Muralla(longitud = 10)
+
+  const museoModerno = new Museo(supCubierta = 100)
+  const museoCrater = new Museo(supCubierta = 10)
+
+  const tierra = new Planeta(
+    habitantes = [charles, miranda, elizabeth, jeffBezos], 
+    construcciones = [murallaChina, murallaDorada, museoModerno]
+    )
+  
+  const marte = new Planeta(
+    habitantes = [], 
+    construcciones = [museoCrater]
+    )
+
+
+
+  test "Delegacion Diplomatica de Planeta se conoce con exito" {
+    charles.ganarMonedas(70) // toda la jubilacion de una
+    jeffBezos.ganarMonedas(9282929237383002) // esclavitud
+
+    assert.equals(tierra.delegacioDiplomatica().size(), 3)
+  }
+
+  test "Existe planeta no valioso" {
+    museoCrater.indiceImportancia(1)
+    assert.notThat(marte.esValioso())
+  }
+
+  test "Al cambiar edad de persona, cambia cantidad de personas en Delegacion Diplomatica" {
+    charles.ganarMonedas(70) // toda la jubilacion de una
+    jeffBezos.ganarMonedas(9282929237383002) // esclavitud
+
+    elizabeth.edad(19)
+
+    assert.equals(tierra.delegacioDiplomatica().size(), 4)
+  }
+}

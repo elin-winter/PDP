@@ -1,0 +1,40 @@
+import contenido.*
+import usuario.*
+import chat.*
+import mensaje.*
+
+describe "Test de Servicio de Mensajeria Wollokiano" {
+  test "Peso de un Gif con 30 cuadros, 10 px de alto, 10 px de ancho" {
+    const gifTest = new Gif(
+        altoEnPixel = 10, 
+        anchoEnPixel = 10, 
+        modoCompresion = compresionOriginal, 
+        cantCuadros = 10)
+    
+    assert.equals(gifTest.peso(), 2000) 
+  }
+
+  test "Usuario manda mensaje y se generan los efectos esperados" {
+
+    const pepe = new Usuario(memoria = 10000, chatsQueTiene = [pdepCurso])
+    const martita = new Usuario(memoria = 10000, chatsQueTiene = [pdepCurso])
+    const pdepCurso = new Chat(participantes = [pepe, martita])
+    const mensaje = new Mensaje (emisor = pepe, contenido = new Texto ( textoMensaje = "Hola, ¿como fue el parcial?" ))
+
+    pepe.enviarMensaje(mensaje, pdepCurso)
+    assert.equals(pepe.memoria(), 9959.9)
+    assert.equals(martita.notisSinLeer().size(), 1)
+    assert.equals(pdepCurso.espacioOcupado(), 40.1)
+  }
+
+  test "Usuario no participante intenta enviar mensaje a grupo" {
+    const pepe = new Usuario(memoria = 10000, chatsQueTiene = [pdepCurso])
+    const martita = new Usuario(memoria = 10000, chatsQueTiene = [pdepCurso])
+    const pdepCurso = new Chat(participantes = [pepe])
+
+    const mensaje = new Mensaje (emisor = pepe, contenido = new Texto ( textoMensaje = "Hola, ¿como fue el parcial?" ))
+    martita.enviarMensaje(mensaje, pdepCurso)
+
+    assert.throwsExceptionWithMessage("Usuario no puede enviar este mensaje", { martita.enviarMensaje(mensaje, pdepCurso) })
+  }
+}

@@ -1,0 +1,60 @@
+import bots.*
+import casas.*
+import magos.*
+import hogwarts.*
+import materias.*
+import hechizos.*
+import aceites.*
+
+describe "Tests del Parcial" {
+  test "Materia dictada por Severus enseña hechizo Inmobilus" {
+    const severus = new Profesor(cargaElectrica = 50, estadoAceite = false, casaDeHogwarts = slytherin)
+    const defensaContraHackeosOscuros = hogwarts.crearUnaMateria(severus, inmobilus)
+
+    const harryBotter = new Estudiante(cargaElectrica = 50, estadoAceite = true)
+    harryBotter.asistirMateria(defensaContraHackeosOscuros)
+    assert.that(harryBotter.loConoce(inmobilus))
+  }
+
+  test "El sombrero sortea ciclicamente" {
+    const harryBotter = new Estudiante(cargaElectrica = 50, estadoAceite = true)
+    const dracoMalfoy = new Estudiante(cargaElectrica = 80, estadoAceite = true)
+    const boty = new Estudiante(cargaElectrica = 30, estadoAceite = false)
+    const chatGPT = new Estudiante(cargaElectrica = 55, estadoAceite = true)
+    const hermioneGranger = new Estudiante(cargaElectrica = 100, estadoAceite = false)
+
+    hogwarts.asignarCasasEstudiantes([harryBotter, dracoMalfoy, boty, chatGPT, hermioneGranger])
+
+    assert.that(harryBotter.casaDeHogwarts() == gryffindor)
+    assert.equals(dracoMalfoy.casaDeHogwarts(), slytherin)
+    assert.equals(boty.casaDeHogwarts(), ravenclaw)
+    assert.equals(chatGPT.casaDeHogwarts(), hufflepuff)
+    assert.equals(hermioneGranger.casaDeHogwarts(), gryffindor)
+    
+  }
+
+  
+
+
+}
+
+
+/*
+
+Harry Botter, Draco Malfoy, boty, chatGPT y Hermione Granger ingresan como estudiantes a Hogwart, el sombrero 
+seleccionador envia a Harry a Gryffindor, a Draco a Slitherin, a los otros dos bots a las siguientes casas, y a Hermione 
+le corresponde nuevamente Gryffindor.
+
+Harry, con carga electrica 80, apenas ingresa a Hogwart no puede lanzar ningun hechizo. Luego asiste a cuatro clases, entre 
+ellas una en la que aprende el "sectum sempra". Intenta lanzarle dicho hechizo a Draco y lo logra. Draco, que era aceite puro, 
+queda con aceite sucio. Mas tarde, Harry le lanza el hechizo al sombrero seleccionador, logra lanzarlo, 
+pero al sombrero, aún siendo aceite puro, no le sucede nada.
+
+El estudiante Draco, con aceite puro, de la casa slytherin, que sabe muchos hechizos, se enfrenta a Albus, 
+un profesor que además de conocer muchos hechizos también dictó varias materias, de gryffindor, con aceite puro. 
+Los dos tienen carga eléctrica 100. Primero, Albus le lanza exitosamente el último hechizo que adquirió, 
+que es un hechizo común de carga eléctrica 60, dejando a Draco con carga 40. Luego, Draco le hace el hechizo avadakedabra, 
+el cual conoce, y Albus queda con carga eléctrica 50. Por último, Albus intenta repetir el hechizo anterior, 
+pero ya no se encuentra en condiciones de lanzarlo y no sucede nada.
+
+*/
