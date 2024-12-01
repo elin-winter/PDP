@@ -4,6 +4,11 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 
 ## Parciales
 
+### 2024
+
+**Nombre del Parcial:** Grim Fandango *(HECHO, el que me tomaron a mí)*
+- Año 2023: *foto en el repo*
+
 ### 2023
 
 **Nombre del Parcial:** El Nuevo Miguelito
