@@ -51,7 +51,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Año 2020: https://docs.google.com/document/d/1RplDxr7clfxwnaSKfStQWQ6XKEoJnGiwuNfdTV8Zm6A/edit
 
 **Nombre del Parcial:** Ratatouille. 
-- Año 202: https://docs.google.com/document/d/14Yl1bvRpTeZSMc6ZW2JFEo8wsn7WTVQTBqUhiDwbYw0/edit
+- Año 2020: https://docs.google.com/document/d/14Yl1bvRpTeZSMc6ZW2JFEo8wsn7WTVQTBqUhiDwbYw0/edit
 
 ### 2019
 
