@@ -22,6 +22,10 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Profs. : Gonzales
 - Año 2024: *pdf en el repo*
 
+**Nombre del Parcial:** ¡Volleyball!
+- Profs. : Matos
+- Año 2024: *pdf en el repo*
+
 ### 2023
 
 **Nombre del Parcial:** El Nuevo Miguelito
