@@ -1,58 +1,65 @@
-Consignas de Parciales
+# Consignas de Parciales
  
 En esta sección encontrarás enlaces a las consignas de los parciales resueltos de la materia Paradigmas de la Programación (PdeP) de la UTN FRBA.
 
-Parciales
+## Parciales
 
-Nombre del Parcial: CraftMine
+### 2024
+
+**Nombre del Parcial:** Plagio di Plagio *(HECHO, el que me tomaron a mí)*
+- Año 2024: https://docs.google.com/document/d/1ilESbsH_umXHRznhN0SOOhzjaR7f52qYOy677lczu7s/edit?usp=sharing
+
+**Nombre del Parcial:** Dune
+- Año 2024: https://docs.google.com/document/d/1vfmY4xOaGVMtDCixKtA6rDugwWM86ZJaL7K5vDKcksA/edit?usp=sharing
+
+### 2023
+
+**Nombre del Parcial:** CraftMine
 - Año 2023: https://docs.google.com/document/d/1i9rB5AzRswz_0Z4T1v5IgRhC3UT-d_Ib1K7LUeq5sa0/edit
 
-Nombre del Parcial: Alfajores
+**Nombre del Parcial:** Alfajores
 - Año 2023: https://docs.google.com/document/d/1m8gRD-gheA2fDbiDXc7-dpiymkhDQRbmzr-plL5BGuA/edit
 
-Nombre del Parcial: Super Mario Bros
+**Nombre del Parcial:** Super Mario Bros
 - Año 2023: https://docs.google.com/document/d/16YC_GPPnety13jm46Y6uhlpBdv9zb7m1HgwDjfMILG0/edit#heading=h.rdm4at4lk1gl
 
-Nombre del Parcial: Naruto
+**Nombre del Parcial:** Naruto
 - Año 2023: https://drive.google.com/file/d/1s91Ta3yrfcJltTG-i_2lll8kwUSMwFeh/view
 
-Nombre del Parcial: Star Wars: Haskell Espacial
+**Nombre del Parcial:** Los Simpson
+- Año 2023: https://docs.google.com/document/d/1fIdfbyhyio8K2Wx9GaEZZ5cjU8P1rY8ZzdO2p4SP4OE/edit
+
+### 2022
+
+**Nombre del Parcial:** Star Wars: Haskell Espacial
 - Año 2022: https://docs.google.com/document/d/1rbOy1rIFmBxMRhTOWvI-u097l9KatHRbqt5KBXvVSfI/edit
 
-Nombre del Parcial: Harry Postre y el Pastel Currificado
+**Nombre del Parcial:** Harry Postre y el Pastel Currificado
 - Año 2022: https://docs.google.com/document/d/1jNjWDojVUCg_PtY3_0XLCbGYkEOP-Jus0_BRzGGI2_o/edit
 
-Nombre del Parcial: Suprema
+**Nombre del Parcial:** Suprema
 - Año 2022: https://docs.google.com/document/d/1PZoaKXMknLCE4AF4CBemvQUrOd8kMsnirS4YHJdn26k/edit
 
-Nombre del Parcial: Functional Master Series 
+### 2021
+
+**Nombre del Parcial:** Functional Master Series 
 - Año 2021: https://docs.google.com/document/d/1AtD9mZGiUNEKmZ_aaWSCoNaeowLTMUhFRVHm-GZIF-w/edit
 
-Nombre del Parcial: Carreras
+**Nombre del Parcial:** Carreras
 - Año 2021: https://docs.google.com/document/d/1g2Gc81R62_xAIiGF0H663ypAz1vxJybr5LDo1sj9tAU/edit#heading=h.ielqgky5ojzp
 
-Nombre del Parcial: Minigolfito
+### 2020
+
+**Nombre del Parcial:** Minigolfito
 - Año 2020: https://docs.google.com/document/d/1LeWBI6pg_7uNFN_yzS2DVuVHvD0M6PTlG1yK0lCvQVE/edit#heading=h.wn9wma8e1ale
 
-Nombre del Parcial: Series
+**Nombre del Parcial:** Series
 - Año 2020: https://docs.google.com/document/d/1u5fGw-Mpv3BM8cFVlc46KzdKHDx4GhhQoS31xlZpGWA/edit
 
-Nombre del Parcial: Influencers
+**Nombre del Parcial:** Influencers
 - Año 2020: https://docs.google.com/document/d/1YILaWRjUUUrnwpxjtRjq3Gc4hQ82ZqguQlGm3XVmJOI/edit?hl=es
 
-Nombre del Parcial: Escuelita de Thanos
+### 2019
+
+**Nombre del Parcial:** Escuelita de Thanos
 - Año 2019: https://docs.google.com/document/d/1IKrJkdbPyoxfHqREIfqzxpsBdANcL2g9gvs9t-IR30E/edit#heading=h.ov2zcvcgcy0t
-
-Nombre del Parcial: Los Simpson
-- Año xxxx: https://docs.google.com/document/d/1fIdfbyhyio8K2Wx9GaEZZ5cjU8P1rY8ZzdO2p4SP4OE/edit
-
-Nombre del Parcial: Heroes_de_leyenda
-- Año xxxx: https://docs.google.com/document/d/1-99rJlDO-mZLzJMwKLThLFKEXAmziyZJEfHtYzUV0jU/edit?usp=sharing
-
-Nombre del Parcial: Dune
-- Año xxxx: https://docs.google.com/document/d/1vfmY4xOaGVMtDCixKtA6rDugwWM86ZJaL7K5vDKcksA/edit?usp=sharing
-
-Otros Recursos
-- Página Oficial de PdeP: https://www.pdep.com.ar/
-
-Si tienes consignas adicionales que desees agregar, por favor abre un pull request o un issue en el repositorio.
