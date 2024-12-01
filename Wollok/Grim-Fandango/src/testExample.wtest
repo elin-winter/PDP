@@ -1,0 +1,54 @@
+// Apellido y Nombre: Winter Elin
+
+import agenteViaje.*
+import estrategia.*
+import alma.*
+import paquete.*
+
+describe "Tests para Departamento de Muerte" {
+
+    const pepito = new AgenteDeViaje(
+      estrategia = navegante,
+      paquetesPredefinidos = [],
+      deuda = 500
+    )
+
+  test "Estrategia Navegante - Agente determina correctamente Paquete Crucero para alma" {
+    
+    const marta = new Alma(
+      dineroAlMorir = 10,
+      cantAccionesBuenas = 60
+    )
+
+    const paqueteEsperado = new PaqueteCrucero(valorBasico = 60)
+    const paqueteObtenido = pepito.armarPaquete(marta)
+
+    assert.equals(paqueteEsperado.valorBasico(), paqueteObtenido.valorBasico())
+
+    /*
+
+    assert.equals(pepito.elegirPaquete(marta), paqueteEsperado)
+
+    No me estaba funcionando, Tom sugirio que tenia que ver con la igualdad de instancias en Wollok, 
+    y que tal vez eso me generaba problemas. 
+
+    Por esa razon, igualo los atributos y no las instancias en si.
+    
+    */
+
+    
+  }
+
+  test "Estrategia Navegante - Agente determina correctamente Paquete Bote para alma" {
+    
+    const clotilde = new Alma(
+      dineroAlMorir = 10,
+      cantAccionesBuenas = 10
+    )
+
+    const paqueteEsperado = new PaqueteBote(valorBasico = 10)
+    const paqueteObtenido = pepito.armarPaquete(clotilde)
+
+    assert.equals(paqueteEsperado.valorBasico(), paqueteObtenido.valorBasico())
+  }
+}
