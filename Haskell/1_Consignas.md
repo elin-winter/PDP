@@ -22,6 +22,10 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 - Profs. : Spigariol
 - Año 2024: https://docs.google.com/document/d/14GOr8dOd_bVe4d4STLbAGAl2PWYNa-U2cb-Xlig_ZF4/edit?usp=sharing
 
+**Nombre del Parcial:** Artes Marciales
+- Profs. : Matos
+- Año 2024: *pdf en el repo*
+
 ### 2023
 
 **Nombre del Parcial:** CraftMine
