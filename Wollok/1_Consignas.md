@@ -8,15 +8,19 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 
 **Nombre del Parcial:** Grim Fandango *(HECHO, el que me tomaron a mí)*
 - Profs. : Spigariol y Sanzo
-- Año 2023: *pdf en el repo*
+- Año 2024: *pdf en el repo*
 
 **Nombre del Parcial:** Intensamente
 - Profs. : Spigariol
-- Año 2023: https://docs.google.com/document/d/1as6JR6ZUU40XptjpJSfMVrgPG3ObSZBevC6niKpm20A/edit?usp=sharing
+- Año 2024: https://docs.google.com/document/d/1as6JR6ZUU40XptjpJSfMVrgPG3ObSZBevC6niKpm20A/edit?usp=sharing
 
 **Nombre del Parcial:** ¿Me voy a vivir solo?
 - Profs. : Spigariol
-- Año 2023: *pdf en el repo*
+- Año 2024: *pdf en el repo*
+
+**Nombre del Parcial:** PdeP Entertainment
+- Profs. : Gonzales
+- Año 2024: *pdf en el repo*
 
 ### 2023
 
