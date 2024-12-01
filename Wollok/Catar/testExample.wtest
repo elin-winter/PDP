@@ -1,0 +1,64 @@
+import chefs.*
+import platos.*
+import torneo.*
+
+const panConQueso = new Entrada()
+const pizza = new Principal(cantAzucar = 10, esBonito = false)
+const tiramisu = new Postre(cantColores = 10)
+
+describe "Calificación de Platillos - Pastelero" {
+
+  const pastelero = new EspecialidadPastelero(nivelDeseadoDulzor = 10)
+  const juan = new Cocinero(especialidad = pastelero)
+
+  
+  test "Calificación - Pastelero - Entrada" {
+    assert.equals(juan.catar(panConQueso), 0)
+  }
+
+  test "Calificación - Pastelero - Principal" {
+    assert.equals(juan.catar(pizza), 5)
+  }
+
+  test "Calificación - Pastelero - Postre" {
+    assert.equals(juan.catar(tiramisu), 10)
+  }
+}
+
+describe "Calificación de Platillos - Chef" {
+
+  const chef = new EspecialidadChef(cantCalorias = 500)
+  const marta = new Cocinero(especialidad = chef)
+
+  
+  test "Calificación - Chef - Entrada" {
+    assert.equals(marta.catar(panConQueso), 10)
+  }
+
+  test "Calificación - Chef - Principal" {
+    assert.equals(marta.catar(pizza), 0)
+  }
+
+  test "Calificación - Chef - Postre" {
+    assert.equals(marta.catar(tiramisu), 10)
+  }
+}
+
+describe "Calificación de Platillos - Souschef" {
+
+  const souschef = new EspecialidadSousChef(cantCalorias = 500)
+  const marta = new Cocinero(especialidad = souschef)
+
+  
+  test "Calificación - Chef - Entrada" {
+    assert.equals(marta.catar(panConQueso), 10)
+  }
+
+  test "Calificación - Chef - Principal" {
+    assert.equals(marta.catar(pizza), 1.3)
+  }
+
+  test "Calificación - Chef - Postre" {
+    assert.equals(marta.catar(tiramisu), 10)
+  }
+}

@@ -1,0 +1,51 @@
+import plataforma.*
+import paises.*
+import criticas.*
+import juegos.*
+
+describe "Test de Internacionalizacion" {
+  test "Conversion - Dolares a Pesos" {
+    const argentina = new Pais (
+        factorConversion = 1000, 
+        caractsProhibidasMenores = []
+        )
+    
+    const pacman = new Juego(
+        precioDolares = 500, 
+        caracteristicas = []
+        )
+    
+    const precioArg = argentina.conversionDolaresLocal(pacman.precioActual())
+    
+    assert.equals(precioArg, 500000)
+    
+  }
+
+  test "Prohibir Juego Indecente para Menores" {
+    const argentina = new Pais (
+        factorConversion = 0, 
+        caractsProhibidasMenores = ["Violencia", "Malas Palabras"]
+        )
+    
+    const pacman = new Juego(
+        precioDolares = 500, 
+        caracteristicas = ["Violencia"]
+        )
+    
+    assert.notThat(argentina.juegoAptoMenores(pacman))
+  }
+
+  test "No Prohibir Juegos Aptos para Menores" {
+    const argentina = new Pais (
+        factorConversion = 0, 
+        caractsProhibidasMenores = ["Violencia", "Malas Palabras"]
+        )
+    
+    const pacman = new Juego(
+        precioDolares = 500, 
+        caracteristicas = []
+        )
+    
+    assert.that(argentina.juegoAptoMenores(pacman))
+  }
+}
