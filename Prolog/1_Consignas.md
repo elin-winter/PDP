@@ -7,10 +7,19 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 ### 2024
 
 **Nombre del Parcial:** Pokemon *(el que me tomaron a mí)*
+- Profs. : Spigariol y Sanzo
 - Año 2024: https://docs.google.com/document/d/1_B3EWYrNSmxOmfMxH8Gtpi3ViG5lWfQgwSq_dSWxTOk/edit?tab=t.0
+
+**Nombre del Parcial:** Pokemon *(OTRO)*
+- Profs. : Spigariol 
+- Año 2024: https://docs.google.com/document/d/1I2wKRH7X8j_PJ4BYkTC9UCsUwmvQcclQBKzQzqYlWdY/edit?usp=sharing
 
 **Nombre del Parcial:** Parque de Atracciones 
 - Año 2024: https://docs.google.com/document/d/139S8G0vwD5wJNfb8UqsH5BV75d7sfUk9ywdvFCXRcLI/edit#heading=h.b7fwzcvrhqzl
+
+**Nombre del Parcial:** Logicomilona
+- Profs. : Gonzales
+- Año 2024: https://docs.google.com/document/d/1JbGxnZa6CWHImsjE9SWcx6Ki9vBqQlKRfVX29DQAe9U/edit?tab=t.0#heading=h.xc9zmucugiv2
 
 ### 2023
 
