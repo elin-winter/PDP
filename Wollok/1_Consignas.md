@@ -7,7 +7,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 ### 2024
 
 **Nombre del Parcial:** Grim Fandango *(HECHO, el que me tomaron a mí)*
-- Año 2023: *foto en el repo*
+- Año 2023: *pdf en el repo*
 
 ### 2023
 
