@@ -9,6 +9,7 @@ En esta sección encontrarás enlaces a las consignas de los parciales resueltos
 **Nombre del Parcial:** Grim Fandango *(HECHO, el que me tomaron a mí)*
 - Profs. : Spigariol y Sanzo
 - Año 2024: *pdf en el repo*
+- Resolución Cátedra: https://github.com/pdepjm/2024-o-parcial-asanzo/pull/1/files
 
 **Nombre del Parcial:** Intensamente
 - Profs. : Spigariol
